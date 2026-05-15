@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102588745950",
+    "project_id": "retro-game-21c07",
+    "storage_bucket": "retro-game-21c07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102588745950:android:2420212cf7ccadeb611a4f",
+        "android_client_info": {
+          "package_name": "com.example.fl_retrogame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Xx6JgryXLPKLash1qerVuil_zuxaYDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
