@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 
 // Para emulador Android usa: http://10.0.2.2:3000/api
 // Para dispositivo físico usa: http://TU_IP_LOCAL:3000/api
-const String baseUrl = 'http://192.168.1.100:3000/api';
+const String baseUrl = 'http://TU_IP_LOCAL:3000/api';
 
 Future<List> getVideoJuegos() async {
   final response = await http.get(Uri.parse('$baseUrl/videojuegos'));
